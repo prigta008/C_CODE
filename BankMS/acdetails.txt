@@ -1,0 +1,2 @@
+MICR : 12345098756	IFSC : 90875634212	ACC_NO : 5882	Name : Priyanshu Gupta	Locality : Mahipalpur	DOB : 12/9/2003	Aadhar No. : 120012001208	Mob. No. : 7890789009
+MICR : 12345098756	IFSC : 90875634212  ACC_NO : 3901	Name : Priyanka Gupta	Locality : Delhi	DOB : 6/3/2002	Aadhar No. : 323209090978	Mob. No. : 7982927394
